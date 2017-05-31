@@ -1,2 +1,1 @@
-"# Phonegap" 
-"# Phonegap" 
+this is my phonegap course
